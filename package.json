@@ -1,0 +1,15 @@
+{
+  "name": "swedbank-to-homebank",
+  "version": "1.0.0",
+  "description": "Convert Swedbank XLSX to HomeBank CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "node-xlsx": "^0.21.0"
+  }
+}
