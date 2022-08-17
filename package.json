@@ -1,11 +1,8 @@
 {
   "name": "swedbank-to-homebank",
   "version": "1.0.0",
-  "description": "Convert Swedbank XLSX to HomeBank CSV",
+  "description": "Import your Swedbank account transactions in HomeBank.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
